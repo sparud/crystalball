@@ -1,0 +1,8 @@
+{
+  "name": "crystalball",
+  "app_id": "1ababe05",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
